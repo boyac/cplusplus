@@ -7,7 +7,7 @@
 
 
 #include <iostream>
-#include <vector> // honestly speaking, I'm not quite get what vector is
+#include <vector> // honestly speaking, I do not quite get what vector is
 #include <string>
 #include <fstream> // file I/O
 
